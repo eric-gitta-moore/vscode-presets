@@ -152,6 +152,8 @@
     "leetcode-problem-rating.enableTimerBar": false,
     "leetcode-problem-rating.hint.commandShortcut": false,
     "leetcode-problem-rating.hint.configWebviewMarkdown": false,
+    "leetcode-problem-rating.workspaceFolder": "C:\\Users\\admin\\.lcpr",
+    "powershell.startAutomatically": false,
     "redhat.telemetry.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.osx": "zsh",
