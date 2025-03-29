@@ -18,6 +18,8 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "autocorrect.formatOnSave": false,
+    "cSpell.showInRuler": false,
+    "cSpell.useCustomDecorations": true,
     "editor.guides.bracketPairs": "active",
     "editor.linkedEditing": true,
     "editor.minimap.enabled": true,
@@ -150,11 +152,11 @@
     "leetcode-problem-rating.enableTimerBar": false,
     "leetcode-problem-rating.hint.commandShortcut": false,
     "leetcode-problem-rating.hint.configWebviewMarkdown": false,
-    "leetcode-problem-rating.workspaceFolder": "/Users/bytedance/.lcpr",
     "redhat.telemetry.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.osx": "zsh",
     "terminal.integrated.fontFamily": "MesloLGS NF",
+    "window.confirmBeforeClose": "always",
     "workbench.colorTheme": "Default Dark+",
     "workbench.list.openMode": "doubleClick"
 }
