@@ -158,6 +158,7 @@
     "redhat.telemetry.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     // "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
     "window.confirmBeforeClose": "always",
