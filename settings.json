@@ -161,6 +161,7 @@
     "terminal.integrated.defaultProfile.osx": "zsh",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.fontFamily": "JetBrainsMono NF",
+    "terminal.integrated.fontSize": 12,
     // "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
     "window.confirmBeforeClose": "always",
     "workbench.colorTheme": "Default Dark+",
