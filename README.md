@@ -5,3 +5,13 @@
 ```sh
 code --list-extensions | jq -R '[inputs] | {recommendations: .}' | jq -S '.'
 ```
+
+windows 写入剪贴板
+```sh
+echo xxx | clip
+```
+
+macOS 写入剪贴板
+```sh
+echo xxx | pbcopy
+```
