@@ -1,11 +1,7 @@
 # vscode-presets
 
-windows 导出
-```pwsh
-echo "{ ""recommendations"": $(code --list-extensions | ConvertTo-Json) }" | jq -S .
-```
-
-unix 导出
-```bash
+全平台通用导出
+- 需要安装 jq
+```sh
 code --list-extensions | jq -R '[inputs] | {recommendations: .}' | jq -S '.'
 ```
