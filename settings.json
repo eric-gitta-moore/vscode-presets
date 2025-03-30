@@ -120,6 +120,7 @@
     },
     "extensions.autoUpdate": false,
     "files.autoSave": "onFocusChange",
+    "files.eol": "\n",
     "git-graph.date.format": "ISO Date & Time",
     "git.allowNoVerifyCommit": true,
     "git.blame.editorDecoration.enabled": false,
