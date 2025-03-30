@@ -10,14 +10,14 @@ editorconfig.editorconfig
 esbenp.prettier-vscode
 everettjf.filter-line
 gera2ld.markmap-vscode
-github.copilot
-github.copilot-chat
 github.vscode-github-actions
+github.vscode-pull-request-github
 golang.go
 gxl.git-graph-3
 huacnlee.autocorrect
 inferrinizzard.prettier-sql-vscode
 lokalise.i18n-ally
+mark-wiemer.vscode-autohotkey-plus-plus
 matthewpi.caddyfile-support
 michelemelluso.code-beautifier
 ms-azuretools.vscode-docker
