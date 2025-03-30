@@ -49,6 +49,9 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "autocorrect.formatOnSave": false,
     "cSpell.showInRuler": false,
     "cSpell.useCustomDecorations": true,
@@ -192,10 +195,9 @@
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.osx": "zsh",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.fontFamily": "JetBrainsMono NF",
+    "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.stickyScroll.enabled": true,
-    // "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
     "window.confirmBeforeClose": "always",
     "workbench.colorTheme": "Default Dark+",
     "workbench.list.openMode": "doubleClick"
