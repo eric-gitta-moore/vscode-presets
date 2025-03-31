@@ -195,7 +195,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.osx": "zsh",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
+    "terminal.integrated.fontFamily": "'MesloLGS Nerd Font'",
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.stickyScroll.enabled": true,
     "window.confirmBeforeClose": "always",
