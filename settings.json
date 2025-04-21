@@ -164,11 +164,6 @@
     "git.enableSmartCommit": true,
     "git.openRepositoryInParentFolders": "never",
     "gitBlameW77.decorationShowHash": false,
-    "github.copilot.chat.commitMessageGeneration.instructions": [
-        {
-            "text": "Use conventional commit message format and speak Chinese!"
-        }
-    ],
     "gitlens.blame.avatars": false,
     "gitlens.blame.format": "${message|20?} ${agoOrDateShort|4-}",
     "gitlens.graph.scrollMarkers.additionalTypes": [
@@ -189,7 +184,6 @@
     "leetcode-problem-rating.enableTimerBar": false,
     "leetcode-problem-rating.hint.commandShortcut": false,
     "leetcode-problem-rating.hint.configWebviewMarkdown": false,
-    "leetcode-problem-rating.workspaceFolder": "C:\\Users\\admin\\.lcpr",
     "powershell.startAutomatically": false,
     "redhat.telemetry.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
