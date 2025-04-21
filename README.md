@@ -8,7 +8,7 @@ vscode 查看推荐的扩展
 全平台通用导出
 - 需要安装 jq
 ```sh
-code --list-extensions | jq -R '[inputs] | {recommendations: .}' | jq -S '.'
+code --list-extensions | jq -R -n '[inputs] | {recommendations: .}' | jq -S '.' | code -
 ```
 
 windows 写入剪贴板
