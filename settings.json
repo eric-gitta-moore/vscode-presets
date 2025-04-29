@@ -159,6 +159,7 @@
     "files.eol": "\n",
     "git-graph.date.format": "ISO Date & Time",
     "git.allowNoVerifyCommit": true,
+    "git.autofetch": true,
     "git.blame.editorDecoration.enabled": false,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
@@ -180,6 +181,18 @@
         }
     ],
     "gitlens.views.commitDetails.files.layout": "tree",
+    "gitlens.views.scm.grouped.views": {
+        "branches": true,
+        "commits": true,
+        "contributors": true,
+        "launchpad": false,
+        "remotes": true,
+        "repositories": false,
+        "searchAndCompare": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true
+    },
     "leetcode-problem-rating.enableStatusBar": false,
     "leetcode-problem-rating.enableTimerBar": false,
     "leetcode-problem-rating.hint.commandShortcut": false,
@@ -194,5 +207,6 @@
     "terminal.integrated.stickyScroll.enabled": true,
     "window.confirmBeforeClose": "always",
     "workbench.colorTheme": "Default Dark+",
-    "workbench.list.openMode": "doubleClick"
+    "workbench.list.openMode": "doubleClick",
+    "workbench.tree.expandMode": "doubleClick"
 }
