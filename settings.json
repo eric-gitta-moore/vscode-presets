@@ -180,6 +180,13 @@
     "tags": true,
     "worktrees": true
   },
+  "go.inlayHints.assignVariableTypes": true,
+  "go.inlayHints.compositeLiteralFields": true,
+  "go.inlayHints.compositeLiteralTypes": true,
+  "go.inlayHints.constantValues": true,
+  "go.inlayHints.functionTypeParameters": true,
+  "go.inlayHints.parameterNames": true,
+  "go.inlayHints.rangeVariableTypes": true,
   "gopls": {
     "ui.semanticTokens": true
   },
@@ -190,6 +197,7 @@
   "makefile.configureOnOpen": true,
   "notebook.formatOnSave.enabled": false,
   "powershell.startAutomatically": false,
+  "python.analysis.inlayHints.variableTypes": true,
   "redhat.telemetry.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
   "svelte.enable-ts-plugin": true,
