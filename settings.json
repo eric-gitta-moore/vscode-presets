@@ -55,9 +55,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "AI.toolcall.confirmMode": "autoRun",
+  "AI.toolcall.reviewMode.ide": "skip",
   "AI.toolcall.reviewMode.solo": "skip",
-  "AI.toolcall.v2.ide.command.mode": "blacklist",
   "AI.toolcall.v2.ide.mcp.autoRun": "alwaysRun",
+  "antigravity.marketplaceExtensionGalleryServiceURL": "https://marketplace.visualstudio.com/_apis/public/gallery",
+  "antigravity.marketplaceGalleryItemURL": "https://marketplace.visualstudio.com/items",
   "autocorrect.formatOnSave": false,
   "cSpell.showInRuler": false,
   "cSpell.useCustomDecorations": true,
@@ -239,7 +241,6 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.fontFamily": "'MesloLGS Nerd Font'",
   "terminal.integrated.fontSize": 12,
-  "terminal.integrated.stickyScroll.enabled": true,
   "trae.preview.permission": {
     "accounts.feishu.cn": {
       "sensors": "denied"
